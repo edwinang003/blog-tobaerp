@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `TobaERP Blog`,
-    author: `Kyle Mathews`,
+    author: `Edwin Ang`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
