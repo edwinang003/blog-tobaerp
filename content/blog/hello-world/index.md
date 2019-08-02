@@ -1,6 +1,8 @@
 ---
 title: Hello World
 date: "2019-08-01T20:12:03.284Z"
+description: Hello world post from Toba Technology blog
+
 ---
 
 Mengikuti tradisi di dunia IT, posting Hello World ini adalah awal dari blog Toba Technology. 
